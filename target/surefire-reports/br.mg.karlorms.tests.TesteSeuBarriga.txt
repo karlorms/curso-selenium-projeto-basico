@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.mg.karlorms.tests.TesteSeuBarriga
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.805 s - in br.mg.karlorms.tests.TesteSeuBarriga

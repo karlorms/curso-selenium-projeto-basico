@@ -1,0 +1,17 @@
+br\mg\karlorms\core\Propriedades.class
+br\mg\karlorms\pages\MenuPage.class
+br\mg\karlorms\suites\SuiteGeral.class
+br\mg\karlorms\pages\MovimentacaoPage.class
+br\mg\karlorms\core\DriverFactory$2.class
+br\mg\karlorms\core\DriverFactory.class
+br\mg\karlorms\pages\LoginPage.class
+br\mg\karlorms\core\Propriedades$Browsers.class
+br\mg\karlorms\core\BaseTest.class
+br\mg\karlorms\core\Propriedades$TipoExecucao.class
+br\mg\karlorms\pages\HomePage.class
+br\mg\karlorms\pages\ResumoPage.class
+br\mg\karlorms\pages\ContasPage.class
+br\mg\karlorms\core\BasePage.class
+br\mg\karlorms\core\DriverFactory$1.class
+br\mg\karlorms\tests\TesteSeuBarriga.class
+utils\DataUtils.class
